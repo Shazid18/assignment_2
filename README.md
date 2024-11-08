@@ -48,9 +48,9 @@ A responsive and interactive property booking website built with vanilla JavaScr
 1. Clone the repository:
 ```bash
 git clone https://github.com/Shazid18/assignment_2.git
-
-2. Open index.html in your preferred browser to view the project.
 ```
+2. Open index.html in your preferred browser to view the project.
+
 
 ## Performance Optimization
   * Optimized DOM manipulation
